@@ -8,14 +8,20 @@ author_profile: true
 
 ## Research fields & interests
 
-1. Monsoon simulation and evolution, extreme events
+1. Climate evolution, dynamics, modeling 
 
-2. Machine learning in climate science
+2. Paleoclimate, future
+
+3. Monsoon, Mediterranean
 
 
 
 ## Research highlights
-### 1. Northward extension of East Asian monsoon climate in the geological history
+The Cenozoic Era, beginning ~66 million years ago and known as the Age of Mammals, was mainly shaped by paleogeography, greenhouse gases, and orbital changes. However, the relative importance of these factors in driving Earth's modern climate remains uncertain.
+
+Here, we select several representative periods that were warmer than today, including the Eocene (~55 million years ago), the Miocene (~15-13 million years ago), the Pliocene (~3.3-3.0 million years ago), the Last Interglacial (~127 thousand years ago), and the Mid-Holocene (~6 thousand years ago), as well as several future emission sceanrios SSP2-4.5, SSP3-7.0 and SSP5-8.5. Our research suggests that:
+
+### 1. Understanding the Earth’s warmer past
 
 <!--
 ![Fig1](../images/Fig_nothward_EASM.jpg)  #默认位置
@@ -27,14 +33,17 @@ author_profile: true
 
 <img align="right" src="../images/Fig_nothward_EASM.jpg"  alt="Fig1" width="65%" height="auto">
 
-• By integrating proxy records and climate simulations in the Eocene, Miocene, Pliocene and Present day, we find the seasonal march of East Asian summer monsoon emerged no later than the Miocene.
-
-• The emergence of seasonal march was driven by Rossby wave responses from early summer to late summer, caused by the weakening of westerly jet colliding with the Tibetan Plateau.
-
-• The emergence of seasonal march determined by the Tibetan Plateau uplift pushed the monsoon climate northward to the modern boundary.
 
 
-### 2.Earlier seasonal march of East Asian summer monsoon in the mid-Pliocene
+• In the tropics, 
+
+• In the subtropics,
+
+• In the mid-latitude
+
+
+### 2.•	Lessons from past warm periods for the future
+
 
 <!--
 ![Fig1](../images/Fig_earlier_EASM.png)
@@ -54,6 +63,7 @@ author_profile: true
 
 
 
+<!--
 ### 3. Multi-timescale changes in extreme precipitation over eastern China
 
 <div align=center> <img src="../images/Fig3_EC_extreme.png" alt="Fig1" width="70%" height="auto"> </div>
@@ -63,7 +73,7 @@ author_profile: true
 • Five types of events have multi-timescale variations, and there are interconnections among them in synoptic and intraseasonal timescale.
 
 • There are significant rates of EPEs transfer from the YRB-type to SC-type (18%), HTA-type to YRB-type (16%), HTA-type to NC-type (22%), and NC-type to NEC-type (25%).
-
+-->
 
 <!--
 # Projects
