@@ -7,6 +7,10 @@ author_profile: true
 
 ## Published
 
+**He, L.**, Zhou, T., Zhun, G. 2025. Past warm intervals inform the future South Asian summer monsoon. Nature. [https://www.nature.com/articles/s41586-025-08956-6].
+
+**He, L.**, et al. 2025. Cenozoic evolution of spring persistent rainfall in East Asia and North America driven by paleogeography. Commun. Earth Environ. [https://www.nature.com/articles/s43247-025-02136-0].
+
 **He, L.**, Zhou, T., et al. 2024. Earlier seasonal march of the East Asian summer monsoon in the mid-Pliocene. J. Climate. [https://doi.org/10.1175/JCLI-D-23-0709.1](https://doi.org/10.1175/JCLI-D-23-0709.1).
 
 **He, L.**, Zhou, T., et al. 2024. Northward extension of East Asian summer monsoon since the Miocene driven by the Tibetan Plateau uplift.  Geophys. Res. Lett.[https://doi.org/10.1029/2023GL107262](https://doi.org/10.1029/2023GL107262).
@@ -20,9 +24,7 @@ author_profile: true
 
 ## In Review or Revision
 
-**He, L.**, Zhou, T., et al. 2025. Cenozoic spring persistent rainfall: emergence in East Asia, decline in North America.
-
-**He, L.**, Zhou, T., et al. 2025. Past warm intervals inform the future South Asian summer monsoon.
+**He, L.**, Biasutti, M. & Kushnir, Y. 2025. Interglacial Mediterranean Wetting Dominated by Suppressed Indian Ocean Convection. (2025). In revision.
 
 
 ## Collaborative
